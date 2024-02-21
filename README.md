@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <a href="https://app.daily.dev/cedricsd"><img src="https://api.daily.dev/devcards/v2/r6dvB7lKZTZbnVmdpWZ1U.png?type=default&r=1wt" width="356" alt="Cedric Soares's Dev Card"/></a>
+  <a href="https://app.daily.dev/cedricsd"><img src="https://api.daily.dev/devcards/v2/r6dvB7lKZTZbnVmdpWZ1U.png?type=wide&r=1wt" width="652" alt="Cedric Soares's Dev Card"/></a>
 </div>
 
 ##
