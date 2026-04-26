@@ -12,23 +12,16 @@
 
 <br>
 
-<div align="center">
-  <a href="https://app.daily.dev/cedricsd">
-    <img src="https://api.daily.dev/devcards/v2/r6dvB7lKZTZbnVmdpWZ1U.png?type=wide&r=1wt" width="652" alt="Cedric Soares's Dev Card"/>
-  </a>
-</div>
-
 <br>
 
 ## 🧑‍💻 Sobre mim
 
 ```typescript
 const cedric = {
-  pronouns: "ele/dele",
   code: ["JavaScript", "TypeScript", "Java", "C#"],
-  tools: ["React", "Angular", "Node", "HTML", "CSS"],
+  tools: ["React", "Angular", "Node", ...thisListIsLonger],
   challenge: "Sempre buscando aprender novas tecnologias 🚀",
-  funFact: "Acredito que código bom é código que outras pessoas conseguem ler 📖"
+  funFact: "Código bom é código que outras pessoas conseguem ler 📖"
 };
 ```
 
